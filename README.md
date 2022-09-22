@@ -29,5 +29,5 @@
             
           CONTACT: jacob@throttlehead.dev
             
-     CUR PROJECTS: AWS Infra code, devops pipelines, GitHub tooling, Lawn rehab, 
-                   CB750 Resto-mod, cycling.
+     CUR PROJECTS: AWS Infra code, devops pipelines, GitHub tooling, lawn rehab, 
+                   CB750 resto-mod, cycling.
