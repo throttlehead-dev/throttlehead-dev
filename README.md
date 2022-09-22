@@ -19,9 +19,7 @@
         
         
          Yeah... it's all real technical, lots of glowing lights and LED panels, but don't forget to go 
-         out and touch real things.
-         
-         From time to time...
+         out and touch real things from time to time.
          
         
          LOCATION: Chicagoland, IL
