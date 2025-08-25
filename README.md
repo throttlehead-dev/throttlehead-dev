@@ -15,17 +15,3 @@
                   \ \  \ \  \\ \  \_|\ \\ \  \ \  \\ \  \_\\ \                                        
                    \ \__\ \__\\ \_______\\ \__\ \__\\ \_______\                                       
                     \|__|\|__| \|_______| \|__|\|__| \|_______|                                       
-        
-        
-        
-         Yeah... it's all real technical, lots of glowing lights and LED panels, but don't forget to go 
-         out and touch real things from time to time.
-         
-        
-         LOCATION: Chicagoland, IL
-            TITLE: Principal/Devops
-            
-          CONTACT: jacob@throttlehead.dev
-            
-     CUR PROJECTS: AWS Infra code, devops pipelines, GitHub tooling, lawn rehab, 
-                   CB750 resto-mod, cycling.
